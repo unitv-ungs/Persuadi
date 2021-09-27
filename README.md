@@ -47,6 +47,11 @@ Por otro lado, la información también se encuentra segmentada con respecto al 
 
 El código de este repositorio **NO** fue refactoreado para su reutilización, sino que sus comentarios y su documentación pueden servir para que sean utilizados fragmentos del mismos.
 
+Este desarrollo se realizó en el plazo de una semana, ante la exigencia desproporcionada de la entidad que solicitó la entrega del informe en un lapso de tiempo muy breve para el relevo más de 500 activos distribuidos en tres plataformas externas. Por esto mismo es que:
+
+- Se está refactoreando el código para evitar publicar malas prácticas. A medida que se resuelvan y se puedan agregar comentarios adecuados, se irá publicando.
+- Los anexos del informe que contienen la información formateada y detallada, no tiene un bonito diseño puesto que era priomordial la entrega de la propia información. A pesar de no ser un lindo diseño, el mismo es funcional y se agrega la escueta plantilla utilizada en su momento.
+
 Persuadí posee otros requisitos adicionales para ser completamente funcional. [Ver Requisitos de esta implementación](##-Requisitos-de-esta-implementación)
 
 
@@ -59,7 +64,7 @@ Persuadí posee otros requisitos adicionales para ser completamente funcional. [
 
     Pendiente de redacción
 
-    Mientras se continúa con la redacción de este Readme, se pueden obtener más detalles técnicos en el cuerpo del [informe](https://github.com/logosfera-zero/Persuadi/blob/informe_2018/Informe%20Final%20PDF/01_Informe.pdf)
+Mientras se continúa con la redacción de este Readme, se pueden obtener más detalles técnicos en el cuerpo del [informe](https://github.com/logosfera-zero/Persuadi/blob/informe_2018/Informe%20Final%20PDF/01_Informe.pdf)
 
 ### Facebook
 
